@@ -1,0 +1,13 @@
+body{
+  background-image: url("https://p0.pikist.com/photos/223/51/workplace-office-desk-blogging-keyboard-mouse-device-office-table-pink.jpg");
+  font-family: cursive;
+}
+.App {
+  margin: 70px 300px;
+}
+h1{
+  margin-bottom: 30px;
+  font-weight: bolder;
+  text-align: center;
+  color: #907e8e;
+}
